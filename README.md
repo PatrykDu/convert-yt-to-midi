@@ -1,5 +1,5 @@
 # convert-yt-to-midi
-You don't have to pay 20 euro for piano every song in MIDI, just make it by yourself from any YT piano tutorial.
+You don't have to pay 20 euro for every piano song in MIDI, just make it by yourself from any YT piano tutorial.
 
 All you have to do is to find any piano tutorial na YT where keys are highlited when pressed, then:
 ![alt text](image.png)
